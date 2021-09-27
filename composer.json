@@ -1,0 +1,7 @@
+{
+    "name": "media_library_fix",
+    "type": "drupal-module",
+    "description": "Implements a work-around for https://www.drupal.org/project/drupal/issues/3106315",
+    "minimum-stability": "dev"
+}
+
