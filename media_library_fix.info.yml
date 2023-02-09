@@ -1,5 +1,5 @@
 name: 'Media Library Fix'
 type: module
 description: 'Implements a work-around for https://www.drupal.org/project/drupal/issues/3106315'
-core_version_requirement: ^8 || ^9
+core_version_requirement: ^9 || ^10
 package: 'Media'
